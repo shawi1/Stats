@@ -1,6 +1,6 @@
-# 🛳️ Titanic Dataset Analysis - README
+# Titanic Dataset Analysis - README
 
-## 📋 Prerequisites
+## Prerequisites
 To run the `titanic_project.py` file and analyze the Titanic dataset, ensure you have the following installed:
 
 ### 1️⃣ **Python** (Version 3.8 or higher)
@@ -29,7 +29,7 @@ To run the `titanic_project.py` file and analyze the Titanic dataset, ensure you
   git --version
   ```
 
-## 🚀 Running the Script
+## Running the Script
 1. Clone the repository:
    ```bash
    git clone <your-github-repo-url>
@@ -40,12 +40,12 @@ To run the `titanic_project.py` file and analyze the Titanic dataset, ensure you
    python titanic_dataset.py
    ```
 
-## 📂 Files Included
+## Files Included
 - `titanic_dataset.py`: Python script for analyzing Titanic survival rates.
 - `README.md`: This guide for prerequisites and instructions.
 - `.gitignore`: Files and directories to exclude from Git.
 
-## 📊 Analysis Outcomes
+## Analysis Outcomes
 - **Question 1:** Survival rate by family size (New Insight)
 - **Question 2:** Survival rate by passenger class (Social Class Insight)
 - **Bar Charts:** Automatically generated to visualize the results.
