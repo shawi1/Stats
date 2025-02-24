@@ -1,7 +1,7 @@
-# Titanic Dataset Analysis - README
+# .CSV Dataset Analyzer - README
 
 ## Prerequisites
-To run the `titanic_project.py` file and analyze the Titanic dataset, ensure you have the following installed:
+To run the `dataset_analysis.py` file and analyze the Titanic dataset, ensure you have the following installed:
 
 ### 1️⃣ **Python** (Version 3.8 or higher)
 - Download and install Python: [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -37,7 +37,7 @@ To run the `titanic_project.py` file and analyze the Titanic dataset, ensure you
    ```
 2. Run the script:
    ```bash
-   python titanic_dataset.py
+   python dataset_analysis.py
    ```
 
 ## Files Included
